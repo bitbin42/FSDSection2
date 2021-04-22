@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "id": "12a8c9ee-3b7f-4139-baf7-95984697a655",
+      "title": "IPL KKR vs DD 1",
+      "domain": "sports",
+      "price": 2500,
+      "location": "Delhi",
+      "startDate": "2020-10-21",
+      "endDate": "2020-10-22",
+      "photoPath": "",
+      "description": "This is the description text for the event.",
+      "organizerName": "91 Events"
+    },
+    {
+      "id": "04f9f868-9678-4193-8ef4-51be1ba13d1c",
+      "title": "IPL KKR vs DD 2",
+      "domain": "sports",
+      "price": 2500,
+      "location": "Goa",
+      "startDate": "2020-10-21",
+      "endDate": "2020-10-22",
+      "photoPath": "",
+      "description": "This is the description text for another event.",
+      "organizerName": "91 Events"
+    },
+    {
+      "id": "87a9094a-8ed9-4e8f-a08a-f2c69d916cad",
+      "title": "IPL KKR vs DD 3",
+      "domain": "sports",
+      "price": 2500,
+      "location": "Maharashtra",
+      "startDate": "2020-10-21",
+      "endDate": "2020-10-22",
+      "photoPath": "",
+      "description": "This is the description text for the event.",
+      "organizerName": "91 Events"
+    },
+    {
+      "id": "8qSugtQ",
+      "title": "Event to be added",
+      "domain": "Lecture",
+      "price": "15.50",
+      "location": "Auditorium",
+      "startDate": "2021-07-04",
+      "endDate": "2021-07-04",
+      "photoPath": "https://images.pexels.com/photos/2156/sky-earth-space-working.jpg?h=150&w=200",
+      "description": "Science lecture",
+      "organizerName": "Billy Baroo"
+    }
+  ]
+}
